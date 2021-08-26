@@ -12,7 +12,7 @@ Welcome to my visual stock information dashboard!
 
         cd C:\...\Stock_Dashboard
         (name_of_your_virtual_env)\Scripts\activate.bat
-        pip install requirements.txt
+        pip install -r requirements.txt
         python server.py
 
 4. Then, go to the link that the command line provides to run view the dashboard.  
