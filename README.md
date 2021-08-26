@@ -13,5 +13,5 @@ Welcome to my visual stock information dashboard!
     (name_of_your_virtual_env)\Scripts\activate.bat
     pip install requirements.txt
     python server.py
-4. Then, go to the link that the command line provides to run view the dashboard.
+4. Then, go to the link that the command line provides to run view the dashboard.  
 Done!
