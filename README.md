@@ -16,4 +16,6 @@ Welcome to my visual stock information dashboard!
         python server.py
 
 4. Then, go to the link that the command line provides to run view the dashboard.  
-Done!
+Done!  
+
+## Please note: the dashboard is currently note completed. It is still a work-in-progress. Currently, it is able to retrieve and show data from the API on a stock's previous open/close price. I am still working on adding the weekly and yearly information.
