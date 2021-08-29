@@ -18,4 +18,4 @@ Welcome to my visual stock information dashboard!
 4. Then, go to the link that the command line provides to run view the dashboard.  
 Done!  
 
-### Please note: the dashboard is currently note completed. It is still a work-in-progress. Currently, it is able to retrieve and show data from the API on a stock's previous open/close price. I am still working on adding the weekly and yearly information. I am also trying to add a dark mode!
+### Please note: the dashboard is currently not completed. It is still a work-in-progress. Currently, it is able to retrieve and show data from the API on a stock's previous open/close price. I am still working on adding the weekly and yearly information. I am also trying to add a dark mode!
