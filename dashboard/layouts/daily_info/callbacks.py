@@ -21,7 +21,9 @@ def register(app: Dash):
         else:
             init_data = daily_info(ticker, date)
             prices = json_parser(init_data)
+            
             opening = f'The opening price for {ticker} was {prices.get(ticker[0])[0]}'
             closing = f'The closing price for {ticker} was {prices.get(ticker[0])[1]}'
+            
             n_clicks = 0
             return [opening, closing]
