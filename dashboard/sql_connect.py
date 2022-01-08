@@ -12,7 +12,7 @@ def create_db_connection(host_name, user_name, user_password, db_name):
             password = user_password,
             database = db_name
             )
-        print("MysQL Database connection successful!")
+        print("MySQL Database connection successful!")
     except Error as err:
         print(f'Error: {err}')
     
