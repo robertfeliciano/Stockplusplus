@@ -1,7 +1,7 @@
 import requests
-from dashboard import key_vault
+#from dashboard import key_vault
 
-key = key_vault.api_key
+#key = key_vault.api_key
 
 url = 'https://api.polygon.io'
 

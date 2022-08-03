@@ -1,6 +1,6 @@
 from dash import Dash
-import dash_core_components as dcc
-import dash_html_components as html
+from dash import dcc
+from dash import html
 
 
 def init(app: Dash):
@@ -13,7 +13,7 @@ def init(app: Dash):
     
     
     return html.Div(children=[
-        html.H3("Robert's Stock Dashboard",
+        html.H3("Welcome to Stock++",
                 style = {
                     'textAlign': 'center',
                     'margin': '48px 0',
